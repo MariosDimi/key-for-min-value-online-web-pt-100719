@@ -14,4 +14,4 @@ def key_for_min_value(name_hash)
 end
 
 devices = {:computers => 40, :tablets => 85, :phones => 70}
-key_for_min_value(ikea)
+key_for_min_value(devices)
